@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963285721326",
+    "project_id": "live-football-scores-e9ce6",
+    "storage_bucket": "live-football-scores-e9ce6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963285721326:android:38dfad834f215fe65693ff",
+        "android_client_info": {
+          "package_name": "com.LiveScores.LiveFootballScores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963285721326-a9ufstnocp837m2i7mo53104sgiluvp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl5I0RHr8tKe-RBIgFfncpMiovne1dHm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963285721326-a9ufstnocp837m2i7mo53104sgiluvp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
